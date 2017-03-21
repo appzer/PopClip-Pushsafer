@@ -18,3 +18,6 @@ Set up your notification by changing the following params.
 ### Click on package to install to Popclip
 
 Check the [Pushsafer API description](https://www.pushsafer.com/en/pushapi)
+
+### Requires:
+* Curl (installed by default on most OSX versions)
