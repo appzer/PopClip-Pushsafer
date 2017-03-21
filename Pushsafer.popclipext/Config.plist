@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Actions</key>
+	<array>
+		<dict>
+			<key>Image File</key>
+			<string>pushsafer.png</string>
+                        <key>Shell Script File</key>
+                        <string>pushsafer.sh</string>
+                        <key>Regular Expression</key>
+			<string>(?s)^.{1,}$</string>
+			<key>Title</key>
+			<string>Send to Pushsafer</string>
+		</dict>
+	</array>
+	<key>Extension Identifier</key>
+	<string>com.pushsafer.send.notification</string>
+	<key>Extension Name</key>
+	<string>Pushsafer Notifier</string>
+	<key>Version</key>
+	<integer>1</integer>
+	<key>Extension Description</key>
+	<string>Send selected text to Pushsafer</string>
+</dict>
+</plist>
