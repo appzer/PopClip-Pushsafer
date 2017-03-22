@@ -1,7 +1,7 @@
 # PopClip-Pushsafer
 ![Pushsafer](https://www.pushsafer.com/de/assets/logos/logo.png)
 
-## A Extension for PopClip > Select text or urls and to send to [Pushsafer](https://www.pushsafer.com/).
+## A Extension for PopClip > Select text or urls and send to [Pushsafer](https://www.pushsafer.com/).
 
 Send [pushsafer.com](https://www.pushsafer.com) notifications out of PopClip
 
