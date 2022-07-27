@@ -11,6 +11,9 @@ Pushsafer make it easy and safe to get push-notifications in real time on your
 - Windows Phone & Desktop
 - Browser (Chrome & Firefox)
 
+# Download
+https://github.com/appzer/PopClip-Pushsafer/
+
 ## Installation
 Edit pushsafer.sh in the popclipext directory and enter your Private or Alias key.
 Set up your notification by changing the following params.
