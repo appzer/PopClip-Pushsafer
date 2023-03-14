@@ -21,10 +21,18 @@ Set up your notification by changing the following params.
 * TITLE="PopClip"
 * DEVICE="a"
 * ICON="18"
+* ICONCOLOR="#FFFF00"
 * SOUND="21"
 * VIBRATION="3"
 * URL=""
 * URLTITLE=""
+* PRIORITY="0"
+* RETRY=""
+* EXPIRE=""
+* CONFIRM=""
+* ANSWER="1"
+* ANSWEROPTIONS=""
+* ANSWERFORCE="0"
 
 ### Click on package to install to Popclip
 
